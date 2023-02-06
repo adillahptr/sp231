@@ -1,3 +1,3 @@
-# Operating Systems 2021-2
+# System Programming (SP231)
 
 [HOME](.) | [LOG](TXT/mylog.txt) | [GitHub](https://github.com/adillahptr/sp231)
