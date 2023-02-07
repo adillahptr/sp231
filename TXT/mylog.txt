@@ -2,4 +2,4 @@
 #ZCZC WEEK# MINUTES LogCode Description
 ZCZC W00 L02 100 Pertemuan pertama Pemrograman Sistem
 ZCZC W00 L10 120 Mengerjakan W00
-ZCZC W00 L12 30 Kelas hari selasa di zoom
+ZCZC W00 L02 30 Kelas hari selasa di zoom
