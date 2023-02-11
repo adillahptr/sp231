@@ -1,5 +1,8 @@
 #https://osp4diss.vlsm.org/ETC/logCodes.txt
 #ZCZC WEEK# MINUTES LogCode Description
-ZCZC W00 L02 100 Pertemuan pertama Pemrograman Sistem
-ZCZC W00 L10 120 Mengerjakan W00
-ZCZC W00 L02 30 Kelas hari selasa di zoom
+ZCZC W00 100 L02 Pertemuan pertama Pemrograman Sistem
+ZCZC W00 120 L10 Mengerjakan W00
+ZCZC W00 30 L02 Kelas hari selasa di zoom
+ZCZC W00 60 L06 Reading assignment, GSGS terkait W00
+ZCZC W00 45 L10 Melanjutkan W00
+ZCZC W00 5 L41 Update mylog.txt
