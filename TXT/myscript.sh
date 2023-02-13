@@ -18,7 +18,7 @@ WEEK="00"
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
-REC2="60914D29C01C81F1"
+REC2="D88FEA9688FB2D44"
 REC1="63FB12B215403B20"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
