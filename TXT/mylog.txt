@@ -8,4 +8,6 @@ ZCZC W00 45 L10 Melanjutkan W00
 ZCZC W00 5 L41 Update mylog.txt
 ZCZC W01 100 L02 Kelas Senin offline
 ZCZC W01 120 L11 Mengerjakan W01
-ZCZC W01 L06 60 GSGS terkait W01
+ZCZC W01 60 L06 GSGS terkait W01
+ZCZC W02 100 L02 Kelas Senin offline
+ZCZC W02 180 L12 Mengerjakan W02
