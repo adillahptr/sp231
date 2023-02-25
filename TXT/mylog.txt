@@ -11,3 +11,5 @@ ZCZC W01 120 L11 Mengerjakan W01
 ZCZC W01 60 L06 GSGS terkait W01
 ZCZC W02 100 L02 Kelas Senin offline
 ZCZC W02 180 L12 Mengerjakan W02
+ZCZC W02 45 L05 Mengerjakan quiz
+ZCZC W02 10 L12 Update 02-SP-WEEK02b.sh
