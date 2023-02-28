@@ -13,3 +13,6 @@ ZCZC W02 100 L02 Kelas Senin offline
 ZCZC W02 180 L12 Mengerjakan W02
 ZCZC W02 45 L05 Mengerjakan quiz
 ZCZC W02 10 L12 Update 02-SP-WEEK02b.sh
+ZCZC W03 100 L02 Kelas Senin offline
+ZCZC W03 60 L13 Mengerjakan W03
+ZCZC W03 45 L05 Pop quiz W03 a,b,c
