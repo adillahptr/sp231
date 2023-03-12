@@ -16,3 +16,6 @@ ZCZC W02 10 L12 Update 02-SP-WEEK02b.sh
 ZCZC W03 100 L02 Kelas Senin offline
 ZCZC W03 60 L13 Mengerjakan W03
 ZCZC W03 45 L05 Pop quiz W03 a,b,c
+ZCZC W04 100 L02 Kelas Senin offline
+ZCZC W04 60 L14 Mengerjakan W04
+ZCZC W04 45 L06 GSGS terkait W04
