@@ -19,3 +19,6 @@ ZCZC W03 45 L05 Pop quiz W03 a,b,c
 ZCZC W04 100 L02 Kelas Senin offline
 ZCZC W04 60 L14 Mengerjakan W04
 ZCZC W04 45 L06 GSGS terkait W04
+ZCZC W05 100 L02 Kelas Senin offline
+ZCZC W05 45 L15 Mengerjakan assignment W05 (Linux Kernel)
+ZCZC W05 30 L05 Pop quiz W05 1,2
